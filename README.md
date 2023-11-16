@@ -1,3 +1,1 @@
-# Professional README Generator Starter Code
-
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+this is a generater for a read me. you use it by operating the terminal and salecting the preffered options and youll get  a read me by the end
